@@ -1,0 +1,9 @@
+.verify__icon i{
+    font-size: 4rem;
+    color:green;
+}
+.title h1{
+    font-family: var(--subtitle-font-name);
+    font-size: 3.6rem;
+
+}
