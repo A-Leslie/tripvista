@@ -1,1 +1,1 @@
-# MERN-tour-management-app
+# A tour management app
