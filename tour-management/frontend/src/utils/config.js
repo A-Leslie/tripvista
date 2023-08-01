@@ -1,1 +1,1 @@
- export const BASE_URL = 'http://localhost:8000/api/v1';
+ export const BASE_URL = 'https://api.render.com/deploy/srv-cj42ms2ip7vuasiuehp0?key=SegQumJP7xc/api/v1';
